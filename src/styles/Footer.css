@@ -1,0 +1,139 @@
+/* .footer {
+    background: #1b2430;
+    color: #fff;
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  .footer-section {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .footer-logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #db712a;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  
+  .footer-section h6 {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-section ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .footer-section ul li a:hover {
+    color: #17cf97;
+  }
+  
+  .footer-section p {
+    margin: 10px 0;
+  }
+  
+  @media (max-width: 768px) {
+    .footer-container {
+      flex-direction: column;
+    }
+  
+    .footer-section {
+      padding: 10px;
+    }
+  }
+   */
+
+   .footer {
+    background: #1b2430;
+    color: #fff;
+    padding: 10px 20px; /* Reduced padding */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  .footer-section {
+    flex: 1;
+    padding: 10px; /* Reduced padding */
+  }
+  
+  .footer-logo {
+    font-size: 1.5rem; /* Reduced font size */
+    font-weight: 700;
+    color: #db712a;
+    text-transform: uppercase;
+    margin-bottom: 5px; /* Reduced margin */
+  }
+  
+  .footer-section h6 {
+    font-size: 1.1rem; /* Reduced font size */
+    margin-bottom: 5px; /* Reduced margin */
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 5px; /* Reduced margin */
+  }
+  
+  .footer-section ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .footer-section ul li a:hover {
+    color: #17cf97;
+  }
+  
+  .footer-section p {
+    margin: 5px 0; /* Reduced margin */
+  }
+  
+  @media (max-width: 768px) {
+    .footer-container {
+      flex-direction: column;
+    }
+  
+    .footer-section {
+      padding: 10px;
+    }
+  }
+  
